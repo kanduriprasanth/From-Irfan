@@ -1,0 +1,10 @@
+1) code should be present in local system
+2) send the code to git repository
+3) take a linux instances
+4) install git,java and tomcat in instances
+5) go to tomcat folder and got to webapps folder
+6) In webapps folder clone the git repository
+7) if git folder is copied into webapps we need to move the html code into webapps folder
+8) mv filename /tmp
+9) go to webapps folder and move the code folder into webapps mv /tmp/filename .-->(. indicates present working folder)
+10) got bin folder and start the tomcat   sh startup.sh

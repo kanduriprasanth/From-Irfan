@@ -1,0 +1,36 @@
+tomcat is a application server and webserver
+deploment path: tomcat/webapps
+8080
+open sources
+
+
+ how to store var in file by using echo
+def  var=hello
+
+sh 'echo "$var >> destination path" (/etc/ansible/roles/webapp/vars/main.yml)'
+
+
+
+
+git clone 
+git fetch
+init add, commit
+git remote push pull 
+diff b/w git pull and push
+git b/w pull and fetch
+
+Command to fetch the git:
+
+git checkout master                                                  
+git fetch                                        
+git diff origin/master
+git rebase origin master
+ 
+bare repository in git?
+diff b/w gitrebase and merge
+ombining tasks from public branch into local branch -- use git rebase
+Combining tasks from local branch to public branch -- use git merge
+
+
+
+

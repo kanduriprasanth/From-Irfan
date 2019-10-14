@@ -1,0 +1,7 @@
+
+
+docker system prune -af - by using this we can remove unused 
+                          containers, images, networks and volumes
+
+
+

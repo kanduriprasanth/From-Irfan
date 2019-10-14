@@ -1,0 +1,5 @@
+Amazon Routr 53:
+YOu can use Amazon Routr 53 to register new domains,transfer existing Domains, route traffic f
+for your domains to your AWS and external resources and monitor and health
+
+By using    we can manage DNS Traffic management and domain registration
